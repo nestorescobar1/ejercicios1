@@ -1,7 +1,7 @@
 
 package parcial;
 
-  public class {
+  public class parcial2{
     
   private int commit;
   private int push;
