@@ -221,7 +221,7 @@ JOptionPane.showMessageDialog(null,"nota mayor"+notamayor+"\nnota menor:"+notame
                     JOptionPane.showMessageDialog(null,"ordenamiento shell");
                     
                     
-                    
+                    jhcbdcgvhchdgchdcjkbcjcknjbhvthbhchbhbdchsv
                     
                     break;   
                 default:
