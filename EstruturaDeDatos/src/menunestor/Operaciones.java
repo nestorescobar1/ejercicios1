@@ -3,7 +3,7 @@ package menunestor;
 
 /**
  *
- * @author 
+ * @author ngvhgvnbbnb
  */
 public class Operaciones {
     private int numero1;
