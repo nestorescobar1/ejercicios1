@@ -4,7 +4,7 @@ i7ftdtrtfggjggtftyt
 
 /**
  *
- * @author nestor asdasdsa
+ * @author nestor asdasdsa kjfbvdivndlkvnofdbnofdvñ, vigti
  */
 
 import java.util.Scanner;
